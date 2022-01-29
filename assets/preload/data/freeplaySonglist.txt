@@ -1,0 +1,3 @@
+Tutorial:gf:1
+ares:hd:1
+pickaxe:hd:1
