@@ -138,7 +138,7 @@ class Character extends FlxSprite
 				addOffset("singLEFT", -10, 10);
 				addOffset("singDOWN", 0, -30);
 
-				playAnim('idle')
+				playAnim('idle');
 			case 'hd':
 				// DAD ANIMATION LOADING CODE
 				tex = Paths.getSparrowAtlas('characters/hd','shared');
