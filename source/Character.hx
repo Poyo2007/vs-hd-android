@@ -144,7 +144,7 @@ class Character extends FlxSprite
 				tex = Paths.getSparrowAtlas('characters/hd','shared');
 				frames = tex;
 				animation.addByPrefix('idle', 'idle dance', 24);
-				animation.addByPrefix('singUP' 'theboy', 24);
+				animation.addByPrefix('singUP', 'theboy', 24);
 				animation.addByPrefix('singRIGHT', 'Sing Note RIGHT', 24);
 				animation.addByPrefix('singDOWN', 'Sing Note DOWN', 24);
 				animation.addByPrefix('singLEFT', 'Sing Note LEFT', 24);
